@@ -1,0 +1,14 @@
+﻿  ExampleScene.cpp
+  ExampleTransitionScene.cpp
+  Game.cpp
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(6,75): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(6,29): warning C4244: 'initializing': conversion from 'float' to 'const unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(7,77): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(7,30): warning C4244: 'initializing': conversion from 'float' to 'const unsigned int', possible loss of data
+  main.cpp
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(6,75): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(6,29): warning C4244: 'initializing': conversion from 'float' to 'const unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(7,77): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Documents\Personal Projects\SceneManager\SceneManager\include\Globals.h(7,30): warning C4244: 'initializing': conversion from 'float' to 'const unsigned int', possible loss of data
+  Generating Code...
+  SceneManager.vcxproj -> F:\Documents\Personal Projects\SceneManager\Debug\SceneManager.exe
